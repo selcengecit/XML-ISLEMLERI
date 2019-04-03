@@ -1,0 +1,10 @@
+C:\Users\Section2\source\repos\NT_XML_1\DövizKurlarıDataSource\bin\Debug\DövizKurlarıDataSource.exe.config
+C:\Users\Section2\source\repos\NT_XML_1\DövizKurlarıDataSource\bin\Debug\DövizKurlarıDataSource.exe
+C:\Users\Section2\source\repos\NT_XML_1\DövizKurlarıDataSource\bin\Debug\DövizKurlarıDataSource.pdb
+C:\Users\Section2\source\repos\NT_XML_1\DövizKurlarıDataSource\obj\Debug\DovizKurlariDataSource.csprojResolveAssemblyReference.cache
+C:\Users\Section2\source\repos\NT_XML_1\DövizKurlarıDataSource\obj\Debug\DövizKurlarıDataSource.Form1.resources
+C:\Users\Section2\source\repos\NT_XML_1\DövizKurlarıDataSource\obj\Debug\DövizKurlarıDataSource.Properties.Resources.resources
+C:\Users\Section2\source\repos\NT_XML_1\DövizKurlarıDataSource\obj\Debug\DovizKurlariDataSource.csproj.GenerateResource.cache
+C:\Users\Section2\source\repos\NT_XML_1\DövizKurlarıDataSource\obj\Debug\DovizKurlariDataSource.csproj.CoreCompileInputs.cache
+C:\Users\Section2\source\repos\NT_XML_1\DövizKurlarıDataSource\obj\Debug\DövizKurlarıDataSource.exe
+C:\Users\Section2\source\repos\NT_XML_1\DövizKurlarıDataSource\obj\Debug\DövizKurlarıDataSource.pdb

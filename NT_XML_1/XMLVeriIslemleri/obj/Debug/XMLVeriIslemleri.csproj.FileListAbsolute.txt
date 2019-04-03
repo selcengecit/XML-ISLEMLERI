@@ -1,0 +1,11 @@
+C:\Users\Section2\source\repos\NT_XML_1\XMLVeriIslemleri\bin\Debug\XMLVeriIslemleri.exe.config
+C:\Users\Section2\source\repos\NT_XML_1\XMLVeriIslemleri\bin\Debug\XMLVeriIslemleri.exe
+C:\Users\Section2\source\repos\NT_XML_1\XMLVeriIslemleri\bin\Debug\XMLVeriIslemleri.pdb
+C:\Users\Section2\source\repos\NT_XML_1\XMLVeriIslemleri\obj\Debug\XMLVeriIslemleri.csprojResolveAssemblyReference.cache
+C:\Users\Section2\source\repos\NT_XML_1\XMLVeriIslemleri\obj\Debug\XMLVeriIslemleri.Form1.resources
+C:\Users\Section2\source\repos\NT_XML_1\XMLVeriIslemleri\obj\Debug\XMLVeriIslemleri.Properties.Resources.resources
+C:\Users\Section2\source\repos\NT_XML_1\XMLVeriIslemleri\obj\Debug\XMLVeriIslemleri.csproj.GenerateResource.cache
+C:\Users\Section2\source\repos\NT_XML_1\XMLVeriIslemleri\obj\Debug\XMLVeriIslemleri.csproj.CoreCompileInputs.cache
+C:\Users\Section2\source\repos\NT_XML_1\XMLVeriIslemleri\obj\Debug\XMLVeriIslemleri.exe
+C:\Users\Section2\source\repos\NT_XML_1\XMLVeriIslemleri\obj\Debug\XMLVeriIslemleri.pdb
+C:\Users\Section2\source\repos\NT_XML_1\XMLVeriIslemleri\bin\Debug\Calisanlar.xml
